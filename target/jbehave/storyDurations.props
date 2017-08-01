@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Tue Aug 01 15:38:15 IST 2017
+gherkinSyntax.story=0
+threads=1
+total=0
+threadAverage=0
